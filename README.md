@@ -1,4 +1,4 @@
-# MernStack web Application  `New version sooooonnn`
+# MernStack web Application 
 
 > eCommerce platform built with the MERN stack & Redux.
 
